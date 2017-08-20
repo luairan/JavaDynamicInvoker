@@ -1,4 +1,8 @@
 # JavaDynamicInvoker
+动态生成 JAVA 代码 并执行的例子  src/sina/Diaties.java
+
+已测试 无内存泄漏 
+
 Java execute string code
 
 
